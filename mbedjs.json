@@ -1,0 +1,9 @@
+{
+    "source": [
+        "."
+    ],
+    "includes": [
+        "mbed-js-chainableled/mbed-js-chainableled-lib.h"
+	],
+    "name": "chainableled"
+}
