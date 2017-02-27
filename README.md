@@ -6,8 +6,19 @@ This wrapper was generated via [mbed-js-wrapper-generator](https://github.com/ja
 
 ## Usage
 
-1. In your [Gulp-based mbed.js project](https://github.com/ARMmbed/mbed-js-example), run: `npm install mbed-js-chainableled`.
-1. Use it via:
+1. In your [Gulp-based mbed.js project](https://github.com/ARMmbed/mbed-js-example), run:
+
+    ```
+    $ npm install mbed-js-chainableled
+    ```
+
+1. Clear your build directory:
+
+    ```
+    $ rm -r build/out
+    ```
+
+1. Use the library via:
 
     ```js
     var led = ChainableLED(D5, D6, 1);

@@ -3,7 +3,7 @@
 #ifndef _JERRYSCRIPT_MBED_LIB_CHAINABLELED_H
 #define _JERRYSCRIPT_MBED_LIB_CHAINABLELED_H
 
-// @todo: add a reference to the ChainableLED header here
+#include "ChainableLED.h"
 
 #include "mbed-js-chainableled/mbed-js-chainableled.h"
 #include "jerryscript-mbed-library-registry/wrap_tools.h"

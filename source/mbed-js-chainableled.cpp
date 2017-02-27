@@ -3,7 +3,7 @@
 #include "jerryscript-mbed-util/logging.h"
 #include "jerryscript-mbed-library-registry/wrap_tools.h"
 
-// @todo: add a reference to the ChainableLED header here
+#include "ChainableLED.h"
 
 /**
  * ChainableLED#setColorRGB (native JavaScript method)
