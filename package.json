@@ -2,5 +2,6 @@
     "name": "mbed-js-chainableled",
     "version": "1.0.0",
     "description": "ChainableLED wrapper for JS on mbed",
-    "author": "Jan Jongboom <jan.jongboom@arm.com>"
+    "author": "Jan Jongboom <jan.jongboom@arm.com>",
+    "homepage": "https://github.com/janjongboom/mbed-js-chainableled#readme"
 }
