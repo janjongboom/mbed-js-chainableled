@@ -12,14 +12,6 @@ This wrapper was generated via [mbed-js-wrapper-generator](https://github.com/ja
     $ npm install mbed-js-chainableled --save
     ```
 
-1. Go into the chainableled folder and install the native library:
-
-    ```
-    $ cd node_modules/mbed-js-chainableled
-    $ mbed add $(cat ChainableLED.lib)
-    $ cd ../..
-    ```
-
 1. Clear your build directory:
 
     ```
